@@ -111,6 +111,12 @@ After training, the notebook computes:
 - **Normalized Confusion Matrix**
 - **Best threshold for F1**
 
+## Co-Authors / Teammates
+- Abhidiyu Mahajan
+- Shubh Garg
+- Manan Singla
+- Rishit Garg 
+
 🙌 Acknowledgements
 
 Dataset:
