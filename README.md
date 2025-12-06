@@ -121,7 +121,7 @@ Model backbones from timm by Ross Wightman.
 
 
 
-The complete training loop is inside:
+
 
 
 
